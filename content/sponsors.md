@@ -2,6 +2,7 @@
 Title: Our Sponsors
 ID: sponsors
 order: 2
+draft: true
 ---
 
 ### Platinum

@@ -1,5 +1,5 @@
 baseurl: "/"
-title: "GOCON CANADA 2020"
+title: "GOCON CANADA"
 canonifyurls: true
 theme: "goconca"
 dataDir: "Dat"
@@ -8,9 +8,9 @@ GoogleAnalytics: "UA-127047731-1"
 
 params:
   # Conference info
-  Name: "GOCON CANADA 2020"
+  Name: "GOCON CANADA"
   Description: "Canadian Go Conference"
-  Date: "May ?, 2020"
+  Date: "May 25 – 26, 2020"
   # Price: "UNKNOWN" # If your event is free, just comment this line
   Venue: "TBD"
   Address: "TBD"
@@ -20,10 +20,6 @@ params:
   Images: ["/img/toronto.jpg"]
   GoogleMapsKey: "AIzaSyD75cSNgqEfqbKAq-2aeBJV0gjYBw4Ys88"
   Twitter: goconcanada
-
-  Cfp:
-    Title: "Submit your talk proposal now!"
-    Url: https://www.papercall.io/goconca
 
   Organizers:
     - name: Mike Fridman
@@ -38,8 +34,20 @@ params:
     - name: Max Gonzih
       homepage: https://gonzih.me/
       twitter:
-    - name: Dylan Arbour
-      homepage: https://dylanarbour.com/
+    - name: Denise Yu
+      homepage: https://example.com/
+      twitter:
+    - name: Jessica Xie
+      homepage: https://example.com/
+      twitter:
+    - name: Spike Lindsey
+      homepage: https://example.com/
+      twitter:
+    - name: Johannes van der Horst
+      homepage: https://example.com/
+      twitter:
+    - name: Daniel Esteban
+      homepage: https://example.com/
       twitter:
 
   Nav:
@@ -47,29 +55,30 @@ params:
       Title: "About"
     # - Url: "/#schedule"
     #   Title: "Schedule"
-    - Url: "/#sponsors"
-      Title: "Sponsors"
+    # - Url: "/#sponsorship"
+    #   Title: "Sponsorship"
+    # - Url: "/#sponsors"
+    #   Title: "Sponsors"
     # - Url: "/#tickets"
     #   Title: "Tickets"
     - Url: "/blog/"
       Title: "Blog"
-    # - Url: "https://www.papercall.io/goconca"
-    #   Title: "Call for Papers "
+    - Url: "https://www.papercall.io/goconca"
+      Title: "Call for Papers "
     #   Icon: "fa-scroll"
     #   Target: "_blank"
-    - Url: "/speakers/"
-      Title: "Speakers"
+    # - Url: "/speakers/"
+    #   Title: "Speakers"
     # - Url: "/partners/"
     #   Title: "Partners"
     # - Url: "/#diversity-scholarship"
-    # Title: "Diversity Scholarship"
     #   Title: "Diversity Scholarship"
     - Url: "/contact/"
       Title: "Contact"
     - Url: "/#mailinglist"
       Title: "Subscribe"
-    - Url: "/location/"
-      Title: "Location"
+    # - Url: "/location/"
+    #   Title: "Location"
     - Url: "/code-of-conduct/"
       Title: "Code of Conduct"
     - Url: "/swag/"
