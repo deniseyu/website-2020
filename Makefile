@@ -12,7 +12,11 @@ preview:
 
 TS := $(date)
 public:
+	ifdef GH_TOKEN
+	git clone -b master https://$(GH_TOKEN)@github.com/goconca/website-2020.git public
+	else
 	git clone -b master git@github.com:goconca/website-2020.git public
+	endif
 
 deploy: public
 	cd public \

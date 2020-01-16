@@ -13,9 +13,9 @@ jobs:
       uses: actions/checkout@master
       with:
         ref: source
-        token: ${{ secrets.GH_TOKEN }}
     - name: deploy
       run: make deploy-using-docker
       env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         GIT_COMMITER_NAME: Max Gonzih via GH Actions
         GIT_COMMITER_EMAIL: gonzih@gmail.com
