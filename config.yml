@@ -34,21 +34,21 @@ params:
     - name: Max Gonzih
       homepage: https://gonzih.me/
       twitter:
-    - name: Denise Yu
-      homepage: https://example.com/
-      twitter:
-    - name: Jessica Xie
-      homepage: https://example.com/
-      twitter:
-    - name: Spike Lindsey
-      homepage: https://example.com/
-      twitter:
-    - name: Johannes van der Horst
-      homepage: https://example.com/
-      twitter:
-    - name: Daniel Esteban
-      homepage: https://example.com/
-      twitter:
+    # - name: Denise Yu
+    #   homepage: https://example.com/
+    #   twitter:
+    # - name: Jessica Xie
+    #   homepage: https://example.com/
+    #   twitter:
+    # - name: Spike Lindsey
+    #   homepage: https://example.com/
+    #   twitter:
+    # - name: Johannes van der Horst
+    #   homepage: https://example.com/
+    #   twitter:
+    # - name: Daniel Esteban
+    #   homepage: https://example.com/
+    #   twitter:
 
   Nav:
     - Url: "/#about"
