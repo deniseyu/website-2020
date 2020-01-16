@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GOCON CANADA</title>
+    <link>/</link>
+    <description>Recent content on GOCON CANADA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GoCon Canada, but why?! And who?</title>
+      <link>/blog/gocon-who-and-why/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gocon-who-and-why/</guid>
+      <description>&lt;p&gt;Since the inception of GoCon Canada many folks reached out with questions about the event and organizers. So we thought why not answer these and a few others.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go speak - resources for potential speakers</title>
+      <link>/blog/speaker-resources/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/speaker-resources/</guid>
+      <description>&lt;div class=&#34;columns&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+    &lt;br&gt;
+    &lt;blockquote&gt;
+      Alone, we can do so little; together, we can do so much
+      &lt;br&gt;
+      -Helen Keller
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column has-text-centered&#34;&gt;
+    &lt;img src=&#34;/img/mountie_gopher.png&#34; alt=&#34;mountie gopher&#34; width=&#34;140&#34; height=&#34;auto&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Go programming language marked its ninth anniversary in 2018 since it was &lt;a href=&#34;https://opensource.googleblog.com/2009/11/hey-ho-lets-go.html&#34;&gt;first publicly announced&lt;/a&gt;. Both the language and the community took off  🛫, with no signs of slowing down.&lt;/p&gt;
+
+&lt;p&gt;Check out &lt;a href=&#34;https://blog.golang.org/9years&#34;&gt;Nine years of Go&lt;/a&gt; for a brief reflection. Incredible, right?!&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re a newcomer, part of the core team, or a long time enthusiast, there is a role we all play to foster a community that welcomes new ideas and people in this complex and crazy field.&lt;/p&gt;
+
+&lt;p&gt;GoCon Canada would like to do its part in helping all feel welcome and build a sense of community.&lt;/p&gt;
+
+&lt;p&gt;In this post..&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;discuss a few reasons &lt;em&gt;potential&lt;/em&gt; speakers don&amp;rsquo;t submit proposals&lt;/li&gt;
+&lt;li&gt;provide some of our favorite &lt;a href=&#34;/blog/speaker-resources/#resources-from-the-web&#34;&gt;resources from the web&lt;/a&gt; that relate to conference proposals and speaking&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/mailinglist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mailinglist/</guid>
+      <description>Subscribe for updates Subscribe to our mailing list if you want to receive updates about the event.
+          </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/mascot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mascot/</guid>
+      <description>The gopher mascot was designed by Renee French / CC 3.0. For more info check out the Go Blog</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The second installment of GoCon Canada will be coming to downtown Toronto in May of 2020. GoCon is committed to building an accessible and inclusive conference with high-quality conversations that will grow the Go community in the Greater Toronto Area. We&amp;rsquo;re scaling up to two days this year, which means more slots for awesome Go talks!
+We anticipate a diverse audience, with various degrees of experience with programming in Go. We want to build a single-track program that is largely technical and focused on the Go language and ecosystem, with a few introductory-level talks and cultural discussions mixed in.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-of-conduct/</guid>
+      <description>All delegates, speakers, sponsors and volunteers at any this event are required to agree with the Go Community Code of Conduct.
+Summary: Our conference will include people from many different backgrounds. Organizers are committed to providing a friendly, safe and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
+These are the values to which people attending this event should aspire:  Be friendly and welcoming Be patient  Remember that people have varying communication styles and that not everyone is using their native language.</description>
+    </item>
+    
+    <item>
+      <title>Speakers</title>
+      <link>/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/</guid>
+      <description>Putting things in order is hard. So we iterated over a map (which as of Go 1.0 is unordered) and got..
+List of speakers on the Go playground   Talk title         Speaker Name  twitter About speaker
+    </description>
+    </item>
+    
+    <item>
+      <title>Swag</title>
+      <link>/swag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/swag/</guid>
+      <description>If you want to support our designer @Lubov_Soltan consider buying GoCon branded goodies.
+Source for all visuals for GoCon Canada can be found here.
+Original gopher mascot was designed by Renee French / CC 3.0.
+T-Shirts</description>
+    </item>
+    
+  </channel>
+</rss>
