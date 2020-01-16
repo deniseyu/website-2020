@@ -17,5 +17,5 @@ jobs:
     - name: deploy
       run: make deploy-using-docker
       env:
-        GIT_AUTHON_NAME: Max Gonzih via GH Actions
-        GIT_AUTHOR_EMAIL: gonzih@gmail.com
+        GIT_COMMITER_NAME: Max Gonzih via GH Actions
+        GIT_COMMITER_EMAIL: gonzih@gmail.com

@@ -3,8 +3,8 @@ MAINTAINER Max Gonzih <gonzih at gmail dot com>
 
 RUN nix-env -i gnumake git hugo
 
-RUN mkdir -p /var/blog
-VOLUME /var/blog
+RUN mkdir -p /var/website
+VOLUME /var/website
 
 EXPOSE 1313
 
