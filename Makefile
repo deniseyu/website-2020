@@ -11,12 +11,13 @@ preview:
 	hugo server --bind 0.0.0.0
 
 TS := $(date)
+ifdef GH_TOKEN
+PUBLIC_URL = https://$(GH_TOKEN)@github.com/goconca/website-2020.git
+else
+PUBLIC_URL = git@github.com:goconca/website-2020.git
+endif
 public:
-	ifdef GH_TOKEN
-	git clone -b master https://$(GH_TOKEN)@github.com/goconca/website-2020.git public
-	else
-	git clone -b master git@github.com:goconca/website-2020.git public
-	endif
+	git clone -b master $(PUBLIC_URL) public
 
 deploy: public
 	cd public \
