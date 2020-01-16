@@ -14,8 +14,8 @@ jobs:
       with:
         ref: source
     - name: deploy
-      run: make deploy-using-docker
+      run: make setup-git public deploy-using-docker
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        GIT_COMMITER_NAME: Max Gonzih via GH Actions
-        GIT_COMMITER_EMAIL: gonzih@gmail.com
+        GIT_NAME: Max Gonzih via GH Actions
+        GIT_EMAIL: gonzih@gmail.com
