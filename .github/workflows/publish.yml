@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: checkout
-      uses: actions/checkout@source
+      uses: actions/checkout@master
       with:
         ref: source
+        token: ${{ secrets.GH_TOKEN }}
     - name: deploy
       run: make deploy-using-docker
       env:
-        github-token: ${{ secrets.GH_TOKEN }}
-        email: gonzih@gmail.com
-        name: Max Gonzih via GH Actions
+        GIT_AUTHON_NAME: Max Gonzih via GH Actions
+        GIT_AUTHOR_EMAIL: gonzih@gmail.com
