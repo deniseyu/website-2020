@@ -1,0 +1,21 @@
+name: publish
+
+on:
+  push:
+    branches:
+    - source
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@source
+      with:
+        ref: source
+    - name: deploy
+      run: make deploy-using-docker
+      env:
+        github-token: ${{ secrets.GH_TOKEN }}
+        email: gonzih@gmail.com
+        name: Max Gonzih via GH Actions
