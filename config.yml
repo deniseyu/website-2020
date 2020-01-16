@@ -24,31 +24,22 @@ params:
   Organizers:
     - name: Mike Fridman
       homepage: https://mfridman.com
-      twitter:
     - name: Zach Goldstein
       homepage: https://zachgoldstein.github.io/
-      twitter:
     - name: Lubov Soltan
       homepage: https://lubovsoltan.wixsite.com/lubovsoltan
-      twitter:
     - name: Max Gonzih
       homepage: https://gonzih.me/
-      twitter:
     # - name: Denise Yu
     #   homepage: https://example.com/
-    #   twitter:
     # - name: Jessica Xie
     #   homepage: https://example.com/
-    #   twitter:
     # - name: Spike Lindsey
     #   homepage: https://example.com/
-    #   twitter:
     # - name: Johannes van der Horst
     #   homepage: https://example.com/
-    #   twitter:
     # - name: Daniel Esteban
     #   homepage: https://example.com/
-    #   twitter:
 
   Nav:
     - Url: "/#about"
