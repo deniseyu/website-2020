@@ -1,5 +1,5 @@
 baseurl: "/"
-title: "GOCON CANADA"
+title: "GOCON CANADA 2020"
 canonifyurls: true
 theme: "goconca"
 dataDir: "Dat"
@@ -8,12 +8,12 @@ GoogleAnalytics: "UA-127047731-1"
 
 params:
   # Conference info
-  Name: "GOCON CANADA"
+  Name: "GOCON CANADA 2020"
   Description: "Canadian Go Conference"
-  Date: "May 31, 2019"
+  Date: "May ?, 2020"
   # Price: "UNKNOWN" # If your event is free, just comment this line
-  Venue: "St. James Cathedral Centre"
-  Address: "65 Church Street"
+  Venue: "TBD"
+  Address: "TBD"
   City:  "Toronto"
   State: "Ontario"
   Postcode: "M5C 2E9"
