@@ -83,3 +83,5 @@ params:
       Title: "Code of Conduct"
     - Url: "/swag/"
       Title: "Swag"
+    - Url: "https://2019.gocon.ca/"
+      Title: "GOCON 2019"
