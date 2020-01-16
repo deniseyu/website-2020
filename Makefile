@@ -44,8 +44,8 @@ deploy-using-docker: public
 	make push
 
 setup-git:
-	git config --global user.email $(GIT_EMAIL)
-	git config --global user.name $(GIT_NAME)
+	git config --global user.email "$(GIT_EMAIL)"
+	git config --global user.name "$(GIT_NAME)"
 
 preview-using-docker: docker-image docker-rm public sudmodules
 	docker run --rm -t -v $(shell pwd):/var/website -p 1313:1313 --name website-builder website-builder make preview
